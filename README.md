@@ -55,17 +55,18 @@ Todo
 ```
 
 ## Board Parts
-|        Designator       | Qty |    Part Number   |     Package     |     Description    |
-|:-----------------------:|:---:|:----------------:|:---------------:|:------------------:|
-|            U1           |  1  |   STM32L412KBT6  |   LQFP-32(7x7)  |                    |
-|         C1,C2,C3        |  3  |                  |       0603      |   100nF Capacitor  |
-| R1,R2,R3,R4,R5,R6,R7,R8 |  8  |                  |       0603      |    10KΩ Resistor   |
-|            R9           |  1  |                  |       0603      |    1KΩ Resistor    |
-|           R10           |  1  |                  |       0603      |    100Ω Resistor   |
-|         SW1-SW41        |  41 |     B3S-1000     |                 |   Tactile Switch   |
-|           BT1           |  1  |   BH-AA-B5BA034  |                 |  AA Battery Holder |
-|            D1           |  1  | IR204-A-L(BY)(M) | Plugin,P=2.54mm |     3mm IR Led     |
-|            Q1           |  1  |      2N3904X     |      TO-92      | NPN BJT Transistor |
+|        Designator       | Qty |    Part Number   |     Package     |     Description    | LCSC Part |
+|:-----------------------:|:---:|:----------------:|:---------------:|:------------------:|:-----------:|
+|            U1           |  1  |   STM32L412KBT6  |   LQFP-32(7x7)  |                    | [C529438](https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_STMicroelectronics-STM32L412KBT6_C529438.html) |
+|         C1,C2,C3        |  3  |                  |       0603      |   100nF Capacitor  | [C14663](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html) |
+| R1,R2,R3,R4,R5,R6,R7,R8 |  8  |                  |       0603      |    10KΩ Resistor   | [C98220](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-0710KL_C98220.html) |
+|            R9           |  1  |                  |       0603      |    1KΩ Resistor    | [C22548](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-071KL_C22548.html) |
+|           R10           |  1  |                  |       0603      |    100Ω Resistor   | [C105588](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-07100RL_C105588.html) |
+|         SW1-SW41        |  41 |     B3S-1000     |                 |   Tactile Switch   | [C2733655](https://www.lcsc.com/product-detail/Tactile-Switches_Omron-Electronics-B3S-1000_C2733655.html) |
+|           BT1           |  1  |   BH-AA-B5BA034  |                 |  AA Battery Holder | [C20606806](https://www.lcsc.com/product-detail/Button-And-Strip-Battery-Connector_MYOUNG-BH-AA-B5BA034_C20606806.html) |
+|            D1           |  1  | IR204-A-L(BY)(M) | Plugin,P=2.54mm |     3mm IR Led     | [C17179477](https://www.lcsc.com/product-detail/Infrared-LED-Emitters_Everlight-Elec-IR204-A-L-BY-M_C17179477.html) |
+|            Q1           |  1  |      2N3904X     |      TO-92      | NPN BJT Transistor | [C5156722](https://www.lcsc.com/product-detail/Bipolar-BJT_Shenzhen-JingYang-2N3904X_C5156722.html) |
+
 
 ## Remote Codes
 |        Button        | Address | Command |
