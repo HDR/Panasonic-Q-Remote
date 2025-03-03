@@ -111,3 +111,11 @@ Todo
 > Uses the Panasonic IR Protocol
 
 
+## Images
+
+![image](https://github.com/user-attachments/assets/01a0169c-c873-45df-899e-c42dc5295cd8)
+
+![PXL_20250226_144714669 RAW-01 COVER](https://github.com/user-attachments/assets/3ac98e4b-898f-437f-bf19-77341c2881a5)
+
+
+
