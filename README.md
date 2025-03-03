@@ -112,7 +112,7 @@ Todo
 |        Return        |  0x26A  |   0xC4  |
 |         Enter        |  0x26A  |   0xC6  |
 
-All of the commands are 48-bit Panasonic Protocol Ir Codes
+All of the commands are 48-bit Panasonic protocol IR codes
 
 
 ## Images
