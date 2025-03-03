@@ -9,11 +9,11 @@ A low-cost (~$30 USD BOM) replacement remote for the Panasonic Q (N2QAJB000034)
 
 ### Ordering the PCB
 
-<ins>**With Assembly**</ins>
+**With Assembly**
 
 Todo
 
-<ins>**Without Asembly**</ins>
+**Without Asembly**
 
 Todo
 
