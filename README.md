@@ -3,7 +3,7 @@
 
 [![GitHub](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)
 
-A cheap(ish) replacement remote for the Panasonic Q (N2QAJB000034)
+A low-cost (~$25 USD BOM) replacement remote for the Panasonic Q (N2QAJB000034)
 
 # Order Information
 
