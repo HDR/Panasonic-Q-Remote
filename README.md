@@ -64,46 +64,46 @@ Todo
 
 
 ## Remote Codes
-|        Button        | Address | Command |    Raw Data    |
-|:--------------------:|:-------:|:-------:|:--------------:|
-|         Stop         |  0x26A  |   0x0   | 0x860026A02002 |
-| Slow/Search Backward |  0x26A  |   0x2   | 0x840226A02002 |
-|  Slow/Search Forward |  0x26A  |   0x3   | 0x850326A02002 |
-|         Pause        |  0x26A  |   0x6   | 0x800626A02002 |
-|      DVD/CD Play     |  0x26A  |   0xA   | 0x8C0A26A02002 |
-|           1          |  0x26A  |   0x10  | 0x961026A02002 |
-|           2          |  0x26A  |   0x11  | 0x971126A02002 |
-|           3          |  0x26A  |   0x12  | 0x941226A02002 |
-|           4          |  0x26A  |   0x13  | 0x951326A02002 |
-|           5          |  0x26A  |   0x14  | 0x921426A02002 |
-|           6          |  0x26A  |   0x15  | 0x931526A02002 |
-|           7          |  0x26A  |   0x16  | 0x901626A02002 |
-|           8          |  0x26A  |   0x17  | 0x911726A02002 |
-|           9          |  0x26A  |   0x18  | 0x9E1826A02002 |
-|           0          |  0x26A  |   0x19  | 0x9F1926A02002 |
-|       Surround       |  0x26A  |   0x30  | 0xB63026A02002 |
-|         Mute         |  0x26A  |   0x32  | 0xB43226A02002 |
-|         Audio        |  0x26A  |   0x33  | 0xB53326A02002 |
-|          Up          |  0x26A  |   0x34  | 0xB23426A02002 |
-|         Down         |  0x26A  |   0x35  | 0xB33526A02002 |
-|         Right        |  0x26A  |   0x36  | 0xB03626A02002 |
-|         Left         |  0x26A  |   0x37  | 0xB13726A02002 |
-|         Power        |  0x26A  |   0x3D  | 0xBB3D26A02002 |
-|        Repeat        |  0x26A  |   0x47  | 0xC14726A02002 |
-|      A-B Repeat      |  0x26A  |   0x48  | 0xCE4826A02002 |
-|     Skip Backward    |  0x26A  |   0x49  | 0xCF4926A02002 |
-|     Skip Forward     |  0x26A  |   0x4A  | 0xCC4A26A02002 |
-|        Display       |  0x26A  |   0x57  | 0xD15726A02002 |
-|        Cancel        |  0x26A  |   0x80  |  0x68026A02002 |
-|          >10         |  0x26A  |   0x84  |  0x28426A02002 |
-|         Game         |  0x26A  |   0xA6  | 0x20A626A02002 |
-|       Top Menu       |  0x26A  |   0xAB  | 0x2DAB26A02002 |
-|        Marker        |  0x26A  |   0xAC  | 0x2AAC26A02002 |
-|         Angle        |  0x26A  |   0xAD  | 0x2BAD26A02002 |
-|       Subtitle       |  0x26A  |   0xAE  | 0x28AE26A02002 |
-|      Preferences     |  0x26A  |   0xB5  | 0x33B526A02002 |
-|      Game Timer      |  0x26A  |   0x96  | 0x109626A02002 |
-|      Playback Mode   |  0x26A  |   0xBB  | 0x3DBB26A02002 |
-|         Menu         |  0x26A  |   0xC0  | 0x46C026A02002 |
-|        Return        |  0x26A  |   0xC4  | 0x42C426A02002 |
-|         Enter        |  0x26A  |   0xC6  | 0x40C626A02002 |
+|        Button        | Address | Command |
+|:--------------------:|:-------:|:-------:|
+|         Stop         |  0x26A  |   0x0   |
+| Slow/Search Backward |  0x26A  |   0x2   |
+|  Slow/Search Forward |  0x26A  |   0x3   |
+|         Pause        |  0x26A  |   0x6   |
+|      DVD/CD Play     |  0x26A  |   0xA   |
+|           1          |  0x26A  |   0x10  |
+|           2          |  0x26A  |   0x11  |
+|           3          |  0x26A  |   0x12  |
+|           4          |  0x26A  |   0x13  |
+|           5          |  0x26A  |   0x14  |
+|           6          |  0x26A  |   0x15  |
+|           7          |  0x26A  |   0x16  |
+|           8          |  0x26A  |   0x17  |
+|           9          |  0x26A  |   0x18  |
+|           0          |  0x26A  |   0x19  |
+|       Surround       |  0x26A  |   0x30  |
+|         Mute         |  0x26A  |   0x32  |
+|         Audio        |  0x26A  |   0x33  |
+|          Up          |  0x26A  |   0x34  |
+|         Down         |  0x26A  |   0x35  |
+|         Right        |  0x26A  |   0x36  |
+|         Left         |  0x26A  |   0x37  |
+|         Power        |  0x26A  |   0x3D  |
+|        Repeat        |  0x26A  |   0x47  |
+|      A-B Repeat      |  0x26A  |   0x48  |
+|     Skip Backward    |  0x26A  |   0x49  |
+|     Skip Forward     |  0x26A  |   0x4A  |
+|        Display       |  0x26A  |   0x57  |
+|        Cancel        |  0x26A  |   0x80  |
+|          >10         |  0x26A  |   0x84  |
+|         Game         |  0x26A  |   0xA6  |
+|       Top Menu       |  0x26A  |   0xAB  |
+|        Marker        |  0x26A  |   0xAC  |
+|         Angle        |  0x26A  |   0xAD  |
+|       Subtitle       |  0x26A  |   0xAE  |
+|      Preferences     |  0x26A  |   0xB5  |
+|      Game Timer      |  0x26A  |   0x96  |
+|      Playback Mode   |  0x26A  |   0xBB  |
+|         Menu         |  0x26A  |   0xC0  |
+|        Return        |  0x26A  |   0xC4  |
+|         Enter        |  0x26A  |   0xC6  |
