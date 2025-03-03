@@ -31,7 +31,7 @@ Todo
 ### Programming
 1. Connect the programmer to the circuitboard (according to the pinout written on the programmer and the board)
 2. Open STM32CubeProgrammer
-3. Press the open file button and select `PanasonicQRemoteFirmware.elf`
+3. Press the open file button and select `Panasonic-Q-Remote-Firmware.elf`
 4. Select ST-Link in the drop down on the right and click connect
 5. Press Download
 
