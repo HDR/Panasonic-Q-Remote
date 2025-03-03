@@ -110,5 +110,4 @@ Todo
 
 > Uses the Panasonic IR Protocol
 
-![image](https://github.com/user-attachments/assets/c0419af3-1839-4c70-b4d9-2e4343eff7dc)
 
