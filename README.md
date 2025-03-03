@@ -27,8 +27,7 @@ Todo
 4. Upload the `Button Cover Production Files.zip` file 
 5. Enter your desired quantity (The price difference between 1 and 5 is low, i suggest getting 5 just in case)
 6. Press `Please Order Now`
-7. Wait for LCSC to email you the quote
-8. When LCSC replies with a quote, make sure you tell them you want 0.125mm or 0.2mm thickness with 3M9448A adhesive backing
+7. When LCSC replies with a quote, make sure you tell them you want 0.125mm or 0.2mm thickness with 3M9448A adhesive backing
 
 # Programming
 ### Tools & Software Needed
