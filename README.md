@@ -108,5 +108,6 @@ Todo
 |        Return        |  0x26A  |   0xC4  |
 |         Enter        |  0x26A  |   0xC6  |
 
+> Uses the Panasonic IR Protocol
 
 ![image](https://github.com/user-attachments/assets/f9a13c7b-eeaf-4fd1-bd9d-6124c7bafb8f)
