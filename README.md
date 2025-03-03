@@ -13,12 +13,25 @@ A low-cost (~$30 USD BOM) replacement remote for the Panasonic Q (N2QAJB000034)
 
 Todo
 
-**Without Asembly**
+**Without Assembly**
 
 Todo
 
 ### Ordering the enclosure
-Todo
+#### PCBWay (Coming soon)
+1. Navigate to the PCBWAY Shared Projects page
+2. Click `Add to cart` and press the cart icon on the first file
+3. Set your desired quantity and material
+4. Change Product Desc to `DIY Entertainment -> Game Controller Enclosure HSCode:950450`
+5. Click `Submit Request`
+6. Repeat for the other two files
+
+#### JLCPCB
+1. Navigate to [JLCPCB's 3D print order page](https://jlc3dp.com/3d-printing-quote)
+2. Click `Add 3D Files` and select `Panasonic Q Remote Top Half.stl`, `Panasonic Q Remote Bottom Half.stl` & `Panasonic Q Remote Battery Cover.stl`
+3. Select `SLA(Resin)` and pick a Material you want (i recommend 9600 Resin)"
+4. Change Product Desc to `Enclosure, Block, Plate, Cylinder Category -> Plastic Enclosure -HS Code 392690`
+5. Click `SAVE TO CART`
 
 ### Ordering the button panel
 1. Navigate to [LCSC's Front Panel order page](https://www.lcsc.com/front-panel/custom-quote)
