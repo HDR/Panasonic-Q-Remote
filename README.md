@@ -1,13 +1,13 @@
 
 # Panasonic Q Replacement Remote
 
-[![GitHub](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)
+[![GitHub](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 A low-cost (~$25 USD BOM) replacement remote for the Panasonic Q (N2QAJB000034)
 
 # Order Information
 
-### Ordering the board
+### Ordering the PCB
 
 <ins>**With Assembly**</ins>
 
@@ -21,8 +21,14 @@ Todo
 Todo
 
 ### Ordering the button panel
-
-Todo
+1. Navigate to [LCSC's Front Panel order page](https://www.lcsc.com/front-panel/custom-quote)
+2. Click `Please Order Now`
+3. Click the plus icon under PET Front Panel custom-quote
+4. Upload the `Button Cover Production Files.zip` file 
+5. Enter your desired quantity (The price difference between 1 and 5 is low, i suggest getting 5 just in case)
+6. Press `Please Order Now`
+7. Wait for LCSC to email you the quote
+8. When LCSC replies with a quote, make sure you tell them you want 0.125mm or 0.2mm thickness with 3M9448A adhesive backing
 
 # Programming
 ### Tools & Software Needed
@@ -33,14 +39,13 @@ Todo
 2. Open STM32CubeProgrammer
 3. Press the open file button and select `Panasonic-Q-Remote-Firmware.elf`
 4. Select ST-Link in the drop down on the right and click connect
-5. Press Download
+5. Click `Download` to flash the firmware
 
-# Parts overview
+# Parts Overview
 ## Enclosure Parts
 ```
 1x Panasonic Q Remote Top Half
 1x Panasonic Q Remote Bottom Half
-1x Panasonic Q Remote Top Half
 1x Panasonic Q Remote Button Cover
 4x M3x8 countersunk screws
 4x M3x10 countersunk screws
@@ -49,7 +54,7 @@ Todo
 4x 5x2mm round rubber feet (optional)
 ```
 
-## Circuitboard Parts
+## Board Parts
 |        Designator       | Qty |    Part Number   |     Package     |     Description    |
 |:-----------------------:|:---:|:----------------:|:---------------:|:------------------:|
 |            U1           |  1  |   STM32L412KBT6  |   LQFP-32(7x7)  |                    |
@@ -61,7 +66,6 @@ Todo
 |           BT1           |  1  |   BH-AA-B5BA034  |                 |  AA Battery Holder |
 |            D1           |  1  | IR204-A-L(BY)(M) | Plugin,P=2.54mm |     3mm IR Led     |
 |            Q1           |  1  |      2N3904X     |      TO-92      | NPN BJT Transistor |
-
 
 ## Remote Codes
 |        Button        | Address | Command |
@@ -108,7 +112,7 @@ Todo
 |        Return        |  0x26A  |   0xC4  |
 |         Enter        |  0x26A  |   0xC6  |
 
-> Uses the Panasonic IR Protocol
+All of the commands are 48-bit Panasonic Protocol Ir Codes
 
 
 ## Images
