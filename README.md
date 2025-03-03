@@ -22,12 +22,11 @@ Todo
 
 ### Ordering the button panel
 1. Navigate to [LCSC's Front Panel order page](https://www.lcsc.com/front-panel/custom-quote)
-2. Click `Please Order Now`
-3. Click the plus icon under PET Front Panel custom-quote
-4. Upload the `Button Cover Production Files.zip` file 
-5. Enter your desired quantity (The price difference between 1 and 5 is low, i suggest getting 5 just in case)
-6. Press `Please Order Now`
-7. When LCSC emails you the quote, make sure you tell them you want 0.125mm or 0.2mm thickness with 3M9448A adhesive backing
+2. Click the plus icon under PET Front Panel Custom
+3. Upload the `Button Cover Production Files.zip` file 
+4. Enter your desired quantity (The price difference between 1 and 5 is low, i suggest getting 5 just in case)
+5. Press `Please Order Now`
+6. When LCSC emails you the quote, make sure you tell them you want 0.125mm or 0.2mm thickness with 3M9448A adhesive backing
 
 # Programming
 ### Tools & Software Needed
