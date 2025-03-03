@@ -24,7 +24,7 @@ Todo
 
 Todo
 
-# Programming the circuitboard
+# Programming
 ### Tools & Software Needed
 - An SWD programmer like the STLink V2
 - [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
